@@ -1,0 +1,11 @@
+{
+  "extensions.ignoreRecommendations": true,
+  "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+  "files.associations": {
+    "*.ino": "cpp"
+  },
+  "particle.targetDevice": "e00fce683485a6abb23efdb6",
+  "particle.targetPlatform": "xenon",
+  "particle.firmwareVersion": "1.4.4",
+  "particle.debugWarningShown": true
+}
