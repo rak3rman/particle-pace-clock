@@ -4,6 +4,9 @@ A custom pace clock designed for swim practices
 
 ![Pace Clock](images/demo1.jpeg)
 
+> [!NOTE]
+> I (Radison) built this project over a weekend when I was 18 years old. Please take pity on my software and hardware design choices :)
+
 ## Background
 
 ### Motivation + Overview
